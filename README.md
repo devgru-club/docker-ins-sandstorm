@@ -1,5 +1,5 @@
 # docker-ins-sandstorm
-A nightly build of Insurgency Sandstorm on Ubuntu as a Docker.
+An automated rebuild of a build of Insurgency Sandstorm on Ubuntu as a Docker.
 
 ```bash
 docker pull  devgru-club/docker-ins-sandstorm:latest
